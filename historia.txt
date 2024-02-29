@@ -2,3 +2,5 @@ Hola, esta es la historia de como desarrollo
 el curso profesional de Git y Github
 
 Master 1
+
+Master 2
